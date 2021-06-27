@@ -29,8 +29,8 @@ Some ways to launch PowerShell with Administrator privileges are:
 
 2. Short way is to open a folder in Windows Explorer then press
    `ALT` `F` `S` `A`.
-   Long way: `File` > `Open PowerShell Submenu` (Click on the right arrow `>`)
-   > `Open Windows PowerShell as administrator`
+   Long way: `File` > `Open PowerShell Submenu` (Click on the right arrow `>`) >
+   `Open Windows PowerShell as administrator`
 
 
 
