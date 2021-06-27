@@ -1,7 +1,7 @@
-# WSL Ubuntu 18.04 Installation Using PowerShell
+# WSL Ubuntu 20.04 Installation Using PowerShell
 
 This collection of PowerShell scripts provide a way to download, install,
-uninstall, or reset Ubuntu 18.04 in WSL.
+uninstall, or reset Ubuntu 20.04 in WSL.
 
 
 ## Prerequisites
@@ -42,20 +42,20 @@ Some ways to launch PowerShell with Administrator privileges are:
 
 
 
-### Downloading the Ubuntu 18.04 WSL Package
+### Downloading the Ubuntu 20.04 WSL Package
 
     .\1_download_ubuntu.ps1
 
-This script will download an `ubuntu-1804.zip` file.
+This script will download an `ubuntu-2004.zip` file.
 
 
 
-### Installing WSL Ubuntu 18.04
+### Installing WSL Ubuntu 20.04
 
     .\2_install_ubuntu.ps1
 
-This script extracts the contents of the `ubuntu-1804.zip` and calls
-`.\ubuntu\ubuntu1804.exe` to start the installation process.
+This script extracts the contents of the `ubuntu-2004.zip` and calls
+`.\ubuntu\ubuntu2004.exe` to start the installation process.
 
 
 
@@ -85,3 +85,4 @@ scripts. Use at your own risk.
  - https://docs.microsoft.com/en-us/windows/wsl/install-win10
  - https://docs.microsoft.com/en-us/windows/wsl/install-manual
  - https://docs.microsoft.com/en-us/windows/wsl/install-on-server
+ - https://wiki.ubuntu.com/WSL

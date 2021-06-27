@@ -1,1 +1,1 @@
-﻿curl.exe -L -o ubuntu-1804.zip https://aka.ms/wsl-ubuntu-1804
+﻿curl.exe -L -o ubuntu-2004.zip https://aka.ms/wslubuntu2004
