@@ -46,7 +46,7 @@ Some ways to launch PowerShell with Administrator privileges are:
 
     .\1_download_ubuntu.ps1
 
-This script will download an `ubuntu-1804.appx` file and rename it as `ubuntu-1804.zip`
+This script will download an `ubuntu-1804.zip` file.
 
 
 
