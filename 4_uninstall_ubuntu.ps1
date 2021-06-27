@@ -1,2 +1,2 @@
-﻿wslconfig.exe /u Ubuntu-18.04
+﻿wslconfig.exe /u Ubuntu-20.04
 Remove-Item .\ubuntu\

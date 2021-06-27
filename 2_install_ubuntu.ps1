@@ -1,4 +1,4 @@
-﻿Expand-Archive ubuntu-1804.zip ubuntu
+﻿Expand-Archive ubuntu-2004.zip ubuntu
 $userenv = [System.Environment]::GetEnvironmentVariable("Path", "User")
 [System.Environment]::SetEnvironmentVariable("PATH", $userenv + (get-location) + "\ubuntu", "User")
-.\ubuntu\ubuntu1804.exe
+.\ubuntu\ubuntu2004.exe
