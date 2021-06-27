@@ -85,3 +85,4 @@ scripts. Use at your own risk.
  - https://docs.microsoft.com/en-us/windows/wsl/install-win10
  - https://docs.microsoft.com/en-us/windows/wsl/install-manual
  - https://docs.microsoft.com/en-us/windows/wsl/install-on-server
+ - https://wiki.ubuntu.com/WSL
