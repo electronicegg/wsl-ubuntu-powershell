@@ -22,13 +22,15 @@ or
 
 ## Opening PowerShell as Administrator
 
-Some of the many ways to launch PowerShell with Administrator previledges are:
+Some ways to launch PowerShell with Administrator privileges are:
 
-1. Press `Win` + `X`, the select `Windows PowerShell (Admin)`
-   Then perform a `cd` command to the desired directory.
+1. Press `Win` + `X`, the select `Windows PowerShell (Admin)` then perform a
+   `cd` command to the desired directory.
 
-2. Short way: In an open folder, press `ALT` + `F` `S` `A`
-   Long way: `File` > `Open PowerShell Submenu` (The `>` part) > `Open Windows PowerShell as administrator`
+2. Short way is to open a folder in Windows Explorer then press
+   `ALT` `F` `S` `A`.
+   Long way: `File` > `Open PowerShell Submenu` (Click on the right arrow `>`)
+   > `Open Windows PowerShell as administrator`
 
 
 
@@ -52,7 +54,8 @@ This script will download an `ubuntu-1804.appx` file and rename it as `ubuntu-18
 
     .\2_install_ubuntu.ps1
 
-This script extracts the contents of the `ubuntu-1804.zip` and calls `.\ubuntu\ubuntu1804.exe` to start the installation process.
+This script extracts the contents of the `ubuntu-1804.zip` and calls
+`.\ubuntu\ubuntu1804.exe` to start the installation process.
 
 
 
